@@ -2,7 +2,6 @@ package com.example.library.Convertors;
 import com.example.library.Models.Author;
 import com.example.library.RequestDto.AuthorRequestDto;
 import com.example.library.ResponseDto.AuthorResponseDto;
-import com.example.library.ResponseDto.BookResponseDto;
 import java.util.ArrayList;
 import java.util.List;
 public class AuthorConvertor {

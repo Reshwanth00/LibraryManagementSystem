@@ -1,5 +1,4 @@
 package com.example.library.Controllers;
-import com.example.library.Models.Author;
 import com.example.library.RequestDto.AuthorRequestDto;
 import com.example.library.ResponseDto.AuthorResponseDto;
 import com.example.library.Service.AuthorService;
